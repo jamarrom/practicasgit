@@ -51,7 +51,7 @@ void generar_array(int a, int b) {
 int main(){
   int a;
   int b;
-  int menu 
+  int menu;
 
 do{ 
   cout<<"Ingrese el primer numero: "<<endl;
