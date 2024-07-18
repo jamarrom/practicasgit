@@ -188,8 +188,6 @@ void ventas() {
         }
     } while (salir == 0);
 
-    /* cout << "Introduzca el número de ID: ";
-    cout << ""; */
 }
 
 
